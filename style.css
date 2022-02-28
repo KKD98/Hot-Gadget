@@ -1,0 +1,94 @@
+/* .logo{
+    height: 50px;
+    width: 50px;
+} */
+.container{
+    margin-bottom: 40px;
+}
+
+
+.navbar{
+    background-color: white;
+}
+
+.nav-item{
+    font-weight: bold;
+    color: gray;
+
+}
+
+.carousel-item{
+    padding: 20px 60px;
+}
+
+ .orange-bg{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 150px 150px;
+} 
+
+.part2{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 80px 450px;
+    
+}
+
+
+
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #050203 0%, #050203 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.banner2, .banner3{
+    height: 560px;
+    width: 600px;
+}
+
+.card{
+    padding:25px 10px;
+    margin: 5px;
+    height: 100%;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.card-text{
+    color: gray;
+}
+
+/* .smrtphn{
+    padding-bottom: 0px;
+} */
+
+.see-all{
+  
+    color: #ec9e29;
+} 
+
+.about-border {
+    display: block;
+    width: 80px;
+    height: 3px;
+    background: #e7a026;
+    margin: 20px auto;
+}
+
+
+.cat-img1{
+    height: 280px;
+    width: 120px;
+}
+.footer-card{
+    height: 300px;
+    width: 100px;
+    padding: 50px 40px 15px 40px;
+}
